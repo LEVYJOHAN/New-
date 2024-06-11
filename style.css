@@ -1,0 +1,53 @@
+
+
+
+
+
+
+*{margin: 0;
+padding: 0;}
+
+
+
+
+section{
+width: 100%;
+
+}
+
+
+
+.main-box{display: flex;
+height: 70vh;
+justify-content: end;
+align-items: end;}
+
+
+
+.container{
+    width: 1140px;
+    margin: 0 auto;
+    border: 5px solid red;
+    margin: 100px;
+}
+
+
+.box{ height: 100px;
+width: 100px;
+margin: 5px;
+text-align: center;
+line-height: 100px;}
+
+
+
+.box1{background-color: blue;
+color: red;}
+
+.box2{background-color: red;
+    color: rgb(44, 230, 44);
+
+}
+.box3{background-color: green;
+color: blue;}
+
+
